@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HI, my name is \<Insert Title Here\>!
 
 You can use the [editor on GitHub](https://github.com/BradleyArmstrong/BradleyArmstrong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
